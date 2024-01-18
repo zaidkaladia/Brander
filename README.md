@@ -26,6 +26,7 @@ Introducing Brander, your comprehensive solution for E-branding and Digital Mark
 * Target Buyier
   * Wholesale buyier
   * Individual buyier
+
  
 **Delivery Options**
 Prices will be listed excluding delivery charges. During checkout, buyers will be presented with multiple delivery options, allowing them to choose the one that suits them best. Additionally, buyers have the option to pick up the items directly from the producer's location.
