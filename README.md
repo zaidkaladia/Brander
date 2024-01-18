@@ -2,6 +2,7 @@
 Brander: Your all-in-one solution for E-branding, Digital Marketing, and seamlessly bridging local produce to regional and national markets.
 
 **Description**
+
 Introducing Brander, your comprehensive solution for E-branding and Digital Marketing. Our project focuses on seamlessly connecting local producers with regional and national markets, providing a one-stop solution for effective online branding and digital marketing strategies. Join us in elevating your brand presence and expanding your reach with Brander.
 
 **Focus of this web app**
@@ -29,5 +30,6 @@ Introducing Brander, your comprehensive solution for E-branding and Digital Mark
 
  
 **Delivery Options**
+
 Prices will be listed excluding delivery charges. During checkout, buyers will be presented with multiple delivery options, allowing them to choose the one that suits them best. Additionally, buyers have the option to pick up the items directly from the producer's location.
    
