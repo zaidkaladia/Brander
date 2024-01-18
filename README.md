@@ -1,11 +1,10 @@
 # Brander
 Brander: Your all-in-one solution for E-branding, Digital Marketing, and seamlessly bridging local produce to regional and national markets.
 
-**Description**
-
+# Description
 Introducing Brander, your comprehensive solution for E-branding and Digital Marketing. Our project focuses on seamlessly connecting local producers with regional and national markets, providing a one-stop solution for effective online branding and digital marketing strategies. Join us in elevating your brand presence and expanding your reach with Brander.
 
-**Focus of this web app**
+#Focus of this web app
 1. **E-Branding**
    a. Educate about branding
    b. Provide template and Tools 
@@ -18,7 +17,7 @@ Introducing Brander, your comprehensive solution for E-branding and Digital Mark
    b. Bring their product to regional and national marketplace.
 
 
-**Target User**
+#Target User
 * Target seller
   * Maybe uneducated or limited formal education
   * Basic knowledge of using a mobile phone
